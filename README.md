@@ -5,7 +5,7 @@
 This repository is a simulation study that answers those questions for a small digit-recognition network (LeNet-5, 61,706 weights, MNIST), stored in three number formats: **FP32, INT8 and INT4**. It also includes a small parity checker written in **Verilog**, and an interactive **Streamlit website** where anyone can break the network themselves.
 
 - **Author:** Gauri Agarwal, B.Tech (Electronics Engineering, VLSI Design & Technology), Banasthali Vidyapith
-- **Live demo:** _add your Streamlit link here_
+- **Live demo:** https://quantized-cnn-bitflip-study-gauriagarwal.streamlit.app/
 - **Type of work:** simulation only. No real chip was irradiated, attacked or tested.
 
 ---
