@@ -14,7 +14,7 @@ AUTHOR = "Gauri Agarwal"
 COLLEGE = "Banasthali Vidyapith"
 PROGRAMME = "B.Tech, VLSI"
 PAGE_ICON = "⚡"
-GITHUB_URL = ""  # paste your repository link here, e.g. https://github.com/yourname/bitflip-cnn
+GITHUB_URL = "https://github.com/gauriiagarwal/Quantized-CNN-Bitflip-Study"
 # real numbers from my own simulation (MNIST, LeNet-style CNN, 10 seeds)
 KPIS = [
     ("bad",  "One FP32 bit flip (greedy attacker)", "98% → 12.8%", "accuracy after 1 flip"),
